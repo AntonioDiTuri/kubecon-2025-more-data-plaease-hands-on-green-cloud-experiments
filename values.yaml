@@ -1,0 +1,2 @@
+extraEnvVars:
+  ENABLE_EBPF_CGROUPID: false
